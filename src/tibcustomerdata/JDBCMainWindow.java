@@ -11,7 +11,7 @@ public class JDBCMainWindow extends JFrame implements ActionListener
 
 		public JDBCMainWindow()
 		{
-			// Sets the Window Title
+			// Sets the Window Title to JDBC Assignment for Siva
 			super( "JDBC Assignment" ); 
 			
 			//Setup fileMenu and its elements
